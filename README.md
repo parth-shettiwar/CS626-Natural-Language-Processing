@@ -1,6 +1,6 @@
 # CS626-NLP </br>
-
-Classification of Part of Speech labels and Chunking label in a sentence. </br>
+Assignments as part of CS626 Natural Language Processing Course</br>
+Classification of Part of Speech labels and Chunking labels of words in a sentence. </br>
 Each implemented using 3 different methods.</br>
 POS Tag:</br>
 1)Bi-LSTM</br>
