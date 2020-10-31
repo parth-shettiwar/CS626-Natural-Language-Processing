@@ -1,0 +1,8 @@
+Python 2.7.17
+numpy 1.16.4
+keras 2.3.1
+keras-contrib
+gensim
+nltk
+zipfile
+tensorflow 2.1.0

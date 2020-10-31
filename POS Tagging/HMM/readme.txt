@@ -1,0 +1,2 @@
+To run the code you will first have to install all the libraries mentioned in requirements.txt "python3 -m pip install -r requirements.txt"
+Then run the command "python3 poshmm.py" or you could instead open the notebook poshmm.ipynb in colab and run it there.
