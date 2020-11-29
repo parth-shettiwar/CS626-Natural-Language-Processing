@@ -1,0 +1,5 @@
+!pip install allennlp
+!pip install spacy
+!pip install --pre allennlp-models
+nltk.download('treebank')
+numpy
