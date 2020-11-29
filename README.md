@@ -9,4 +9,7 @@ POS Tag:</br>
 Chunking:</br>
 1)Maximum Entropy Markov Model</br>
 2)Conditional Random Fields</br>
-3)Bi-LSTM</br>
+3)Bi-LSTM</br>  
+3rd Assignment is concerning Parsing  
+1)Constitutional Parse Tree to Dependency Parse Tree conversion  
+2)Dependency Parse Tree to Constitutional Parse Tree conversion  
